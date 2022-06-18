@@ -22,10 +22,10 @@
    <h1 align="start">:man_technologist: About Me :</h1>
     <div align="start">
  
-- 💻:I am interested in website and application development. 
-- 🏠:I have been interested in IT from a young age and at the moment I am studying programming.
--🎓I’m currently learning at school.
-- :zap:After school, in my free time I write code and watch learning videos on developing different programs. I want to be a frontend developer in the future :)
+- 💻: I am interested in website and application development. 
+- 👨‍🎓: I’m currently learning at school.
+- 🏠: I have been interested in IT from a young age and at the moment I am studying programming.
+- :zap: After school, in my free time I write code and watch learning videos on developing different programs. I want to be a frontend developer in the future :)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
