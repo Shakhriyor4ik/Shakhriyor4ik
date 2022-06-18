@@ -15,20 +15,35 @@
 </h1>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-   :man_technologist: About Me :
+   </div>
+  
+--- 
+  
+   <h1 align="start">:man_technologist: About Me :</h1>
+    <div align="start">
+ 
+- 💻:I am interested in website and application development. 
+- :light:I have been interested in IT from a young age and at the moment I am studying programming.
+-🎓I’m currently learning at school.
+- :zap:After school, in my free time I write code and watch learning videos on developing different programs. I want to be a frontend developer in the future :)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+ <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"        height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+      
+---
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhriyor4ik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+
 </div>
 
-</div>
 
 
-
-
-
-<!-- 👋 Hi! I’m Shakhriyor.
-- 
-Something about me
--
-- I am interested in website and application development. I have been interested in IT from a young age and at the moment I am studying programming.
-🎓I’m currently learning at school.
-After school, in my free time I write code and watch learning videos on developing different programs. I want to be a frontend developer in the future :)
- -->
