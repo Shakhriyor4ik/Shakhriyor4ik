@@ -40,7 +40,9 @@
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhriyor4ik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakhriyor4ik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Shakhriyor's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakhriyor4ik)](https://github.com/shakhriyor4ik/github-readme-stats)     
+     
   </div>
 
 </div>
