@@ -4,7 +4,7 @@
   <a href="https://www.instagram.com/sunx_di">
     <img src="https://img.shields.io/badge/instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
-  <a href ="https://t.me/error_s_404_s">
+  <a href ="https://t.me/wshxio">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   </div>
